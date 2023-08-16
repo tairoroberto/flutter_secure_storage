@@ -33,6 +33,8 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
 
+    namespace 'com.it_nomads.fluttersecurestorageexample'
+
     defaultConfig {
         applicationId "com.it_nomads.fluttersecurestorageexample"
         minSdkVersion 18
